@@ -31,7 +31,7 @@
 | `FC_PASSWORD`   | `mypassword123`    | 登录密码       |
 | `FC_MACHINE_ID` | `12345`            | 服务的端口或机器编号 |
 | `TG_BOT_TOKEN`(可选) | `12345`            | Telegram 机器人 token |
-| `TG_BOT_TOKEN`(可选) | `12345`            | Telegram 你的 chat ID |
+| `TG_CHAT_ID`(可选) | `12345`            | Telegram 你的 chat ID |
 | `FC_ACCOUNTS`(可选) | `[{"username": "user@example.com","password": "mypassword123","machines": [1234,4566]},{"username": "user@example.com","password": "mypassword123","machines": [1234]}]`            | 多个账号登录续费 |
 
 3️⃣ 启用 GitHub Actions
